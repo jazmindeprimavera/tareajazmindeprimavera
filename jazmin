@@ -1,0 +1,19 @@
+<head>
+    <body>
+        <h1>Jazmin Nuñez</h1>
+        <p>
+            Mi nombre es Jazmin Nuñez , vivo en la region de valapraiso , mas bien en un pueblo llamado zapallar , aqui estoy hace 3 años despues de vivir 10 años afuera de este
+     lugar ,normalmente voy a bucear trabajo en jardines y me gusta mucho ir al cerro.   </p>
+    <h2>
+        experiencia de vida
+    </h2>
+    <p> me ha tocado mucho viajar en lugares como
+        <div>australia</div>
+        <div>nueva zelanda</div>
+        <div>estados unidos</div>
+        <div>brasil</div>
+        <div>argentina</div>
+    </p>
+    <p>me encanta viajar y por esta razon tome programacion ya que mi sueño es viajar programando sistemas agricolas y pdoer conocer diferentes tipos de cultura he industrias a fines.</p>
+    </body>
+</head>
